@@ -1,0 +1,19 @@
+{
+  "name": "first-lines-distil62",
+  "version": "1.0.0",
+  "description": "This is a pretty simple Node.js exercise, the goal is to:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/first-lines-Distil62.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/first-lines-Distil62/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/first-lines-Distil62#readme"
+}
